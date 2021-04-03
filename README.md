@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Kotlin and Pyhton
 
 
-- 📫 How to reach me:  📷 [instagram][instagram] **|** | 👔 [linkedin][linkedin]
+- 📫 How to reach me:  📷 [instagram][instagram] **|**  👔 [linkedin][linkedin]
 
 [instagram]: https://instagram.com/bilalcagdanlioglu
 [linkedin]: https://linkedin.com/in/bilalcagdanlioglu
