@@ -11,7 +11,7 @@
 [instagram]: https://instagram.com/bilalcagdanlioglu
 [linkedin]: https://linkedin.com/in/bilalcagdanlioglu
 
-
+***
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
